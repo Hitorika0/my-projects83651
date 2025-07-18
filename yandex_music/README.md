@@ -33,23 +33,6 @@
 
 * Откройте ноутбук локально через Jupyter Notebook
 
-## Установка и запуск
-
-При желании вы можете запустить проект локально и изучить его изнутри. 
-
-Чтобы запустить проект на компьютере:
-
-1. Клонируйте репозиторий:
-
-<pre> git clone https://github.com/Hitorika0/my-projects83651.git </pre>
-
-2. Перейдите в папку с проектом:
-
-<pre> cd yandex_music </pre>
-
-3. Откройте Jupyter Notebook:
-
-<pre> jupyter notebook kozubova_a_yandex_music_project.ipynb </pre>
 
 ## Контакты
 

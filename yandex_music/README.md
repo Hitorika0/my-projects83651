@@ -32,7 +32,7 @@
 
 1. Клонируйте репозиторий:
 
-pre lang="bash"> ```bash git clone https://github.com/username/repo.git  ``` </pre>
+<pre> \```bash git clone https://github.com/username/repo.git cd yandex_music jupyter notebook kozubova_a_yandex_music_project.ipynb \``` </pre>
 
 2. Перейдите в папку с проектом:
 

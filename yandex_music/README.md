@@ -36,11 +36,12 @@
 ## Установка и запуск
 
 При желании вы можете запустить проект локально и изучить его изнутри. 
+
 Чтобы запустить проект на компьютере:
 
 1. Клонируйте репозиторий:
 
-<pre> bash git clone https://github.com/username/repo.git </pre>
+<pre> git clone https://github.com/Hitorika0/my-projects83651.git </pre>
 
 2. Перейдите в папку с проектом:
 

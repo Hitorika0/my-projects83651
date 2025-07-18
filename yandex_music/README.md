@@ -38,7 +38,7 @@
 
 1. Клонируйте репозиторий:
 
-<pre> \```bash git clone https://github.com/username/repo.git \``` </pre>
+<pre> bash git clone https://github.com/username/repo.git </pre>
 
 2. Перейдите в папку с проектом:
 

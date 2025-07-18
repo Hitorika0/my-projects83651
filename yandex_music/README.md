@@ -42,11 +42,11 @@
 
 2. Перейдите в папку с проектом:
 
-<pre> \```cd yandex_music \``` </pre>
+<pre> cd yandex_music </pre>
 
 3. Откройте Jupyter Notebook:
 
-<pre> \```jupyter notebook kozubova_a_yandex_music_project.ipynb \``` </pre>
+<pre> jupyter notebook kozubova_a_yandex_music_project.ipynb </pre>
 
 ## Контакты
 

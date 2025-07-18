@@ -32,13 +32,15 @@
 
 1. Клонируйте репозиторий:
 
-**git clone https://github.com/username/repo.git**
+pre lang="bash"> ```bash git clone https://github.com/username/repo.git  ``` </pre>
 
 2. Перейдите в папку с проектом:
 
 **cd yandex_music**
 
-3. 
+3. Откройте Jupyter Notebook:
+
+jupyter notebook kozubova_a_yandex_music_project.ipynb
 
 ## Контакты
 
